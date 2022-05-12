@@ -4,7 +4,7 @@ int main()
 {
     int a = 5;
     int b = 9;
-    int c = 24;
+    int c = 27;
     int max = 0;
 
     if (a > b && a>c){
