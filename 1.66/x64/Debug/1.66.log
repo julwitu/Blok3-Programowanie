@@ -1,0 +1,4 @@
+﻿  1.66.cpp
+C:\Users\jwitu\OneDrive\Pulpit\SDA\Zajecia2\Blok2-Programowanie\1.66\1.66.cpp(7,122): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jwitu\OneDrive\Pulpit\SDA\Zajecia2\Blok2-Programowanie\1.66\1.66.cpp(20,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  1.66.vcxproj -> C:\Users\jwitu\OneDrive\Pulpit\SDA\Zajecia2\Blok2-Programowanie\x64\Debug\1.66.exe
